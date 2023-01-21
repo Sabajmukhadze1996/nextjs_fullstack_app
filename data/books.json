@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Mindset",
+    "description": "A New Book",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81wgcld4wxL._AC_UL127_SR127,127_.jpg"
+  },
+  {
+    "name": "Random Book",
+    "description": "A New Random Book",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71PNGYHykrL._AC_UL254_SR254,254_.jpg",
+    "id": 1674332149354
+  }
+]
